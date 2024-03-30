@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    padding:0;
+    width: auto;
+    
+}
+
+.header{
+    width: 100%;
+    height: 60px;
+    background-color: #28a745;
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.box-text{
+    margin-left: 10px;
+
+
+}
+
+#text{
+    margin-left: 20px;
+    font-size: 30px;
+}
+#login{
+    width: 70px ;
+    height: 50px;
+    border: 1 px solid skyblue ;
+    border-radius: 10px;
+    margin-left: 1400%;
+
+}
+#SignUp{
+    width: 70px ;
+    height: 50px;
+    border: 1 px solid skyblue ;
+    border-radius: 10px;
+    margin-left: 1500%;
+}
+
+img{
+    width: 50%;
+    height: 400px;
+      margin-top: 40px;
+      border: 5px solid #93dde8;
+      border-radius: 10px;
+      
+    }
+
+.box {
+
+    left: 20px;
+    background-color:rgb(218, 219, 220);
+ color: black;
+    margin-top: 80px;
+    width:50%;
+     border: 3px solid rgba(255, 255, 255, 0.895); 
+    border: 3px solid rgb(215, 213, 213);
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    height: 120%;
+    margin-right: 20px;
+    margin-left: 150px;
+    padding-left: 20px;
+
+}
+
+/*  */
+
+.btn1, .btn2 {
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #28a745;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}
+.btn2 {
+    background-color: #28a745;
+    margin-left: 10px;
+}
+
+#pic{
+    margin-top: 20px;
+    width: 60px;
+    height: 80px;
+    border: 40px;
+    border: radius 20px;
+}
